@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    color: white;
+}
+
+.contact{
+    font-family: Trebuchet MS, sans-serif;
+    background-color: rgba(48, 230, 115, 0.596);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    width: 80%;
+    height: 100%;
+}
+
+.header{
+    font-size: 32px;
+    text-align: center;
+
+}
+
+.Info{
+    float: center;
+
+}
+

@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    color: white;
+}
+
+.header {
+    font-size: 32px;
+    text-align: center;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+    font-family: Trebuchet MS, sans-serif;
+    background-color: rgba(48, 230, 115, 0.596);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    width: 80%;
+    height: 100%;
+}
+
+.skillList {
+    text-align: left;
+    margin-left: 3%;
+}
+
+.logos{
+    padding: 2%;
+}

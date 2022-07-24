@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    color: white;
+}
+
+.header {
+    font-size: 32px;
+    text-align: center;
+}
+
+.workerexp {
+    display: flex;
+    justify-content: center;
+    font-family: Trebuchet MS, sans-serif;
+    background-color: rgba(48, 230, 115, 0.596);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    width: 80%;
+    height: 100%;
+}
+
+.worklist{
+    list-style-type: none;
+    margin-left: 20%;
+    text-align: left;
+    width: 60%;
+    height: 100%;
+}
+
+.jobtitle{
+    text-align: center;
+}
+
+.date{
+    text-align: left;
+}
+
+

@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    
+}
+
+.bio{
+    background-color: rgba(48, 230, 115, 0.596);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    width: 68%;
+    height: 100%;
+    float: left;
+}
+
+.image {
+    background-color: rgba(48, 230, 115, 0.596);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    width: 20%;
+    height: 210px;
+}
+
+.EduBackground {
+    background-color: rgba(48, 230, 115, 0.596);
+    padding: 20px;
+    margin: 5px;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    width: 94%;
+    height: 100%;
+}
+
+.Resume {
+    background-color: rgba(48, 230, 115, 0.596);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    width: 94%;
+    height: 100%;
+}
+
+.header
+{
+    text-align: center;
+    color: whitesmoke;
+    
+    font-family: Trebuchet MS, sans-serif;
+}
+
+.bodyFont
+{
+    text-align: left;
+    color: whitesmoke;
+    font-family: Verdana, sans-serif;
+}
+
+
+
+/*NAV BAR*/
+
+ul.NavBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li.NavBar {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: rgba(48, 230, 115, 0.596);
+    color: white;
+}
